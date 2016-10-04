@@ -1,0 +1,7 @@
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\bin\Debug\Log4Net.exe.config
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\bin\Debug\Log4Net.exe
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\bin\Debug\Log4Net.pdb
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\bin\Debug\log4net.dll
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\bin\Debug\log4net.xml
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\obj\Debug\Log4Net.exe
+c:\users\hoan-pc\documents\visual studio 2015\Projects\Log4Net\Log4Net\obj\Debug\Log4Net.pdb
